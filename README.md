@@ -57,7 +57,7 @@ A free, open-source blog system based on Django + MySql + jQuery + bootstrap + m
         }  
    }  
    
-4、创建数据库table  
+4、创建数据库`table`  
    在manage.py目录执行:python manage.py migrate
    
 5、运行服务器  
